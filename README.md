@@ -2,7 +2,7 @@
   <h1>psyphonix</h1>
   <p>Welcome to my home page portfolio! This is a place where I showcase my skills, projects, and passions in the world of software for hobby side projects and code tinerking.</p>
   
-  <img src="https://via.placeholder.com/800x200.png?text=Cyber+Animation+Showcase" alt="Cyber Animation Showcase">
+  <img src="[https://via.placeholder.com/800x200.png?text=Cyber+Animation+Showcase](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUwOHZ6MWVuMjdobzE5OWp4M3hqbGk4MjlkNHNpeGx6Zmhydjh1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QfXKe522OEagWgTVpf/giphy.gif)" alt="Cyber Animation Showcase">
   <p><i><b>Note:</b> The dynamic animation you see in a local preview needs to be captured as a GIF to display on GitHub. You can use screen recording software (like OBS or ScreenToGIF) to capture the animation running in your browser and save it as a GIF. Then, upload the GIF to your repository and replace the placeholder link above.</i></p>
 </div>
 
@@ -25,3 +25,4 @@ I am a **[Your Role]** with a passion for building awesome things. I have experi
   <a href="[Your Twitter URL]" target="_blank">Twitter</a> | 
   <a href="[Your Website URL]" target="_blank">Website</a>
 </div>
+
