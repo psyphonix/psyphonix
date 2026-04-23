@@ -3,18 +3,18 @@
   <p>Welcome to my home page portfolio! This is a place where I showcase my skills, projects, and passions in the world of software for hobby side projects and code tinerking.</p>
   
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUwOHZ6MWVuMjdobzE5OWp4M3hqbGk4MjlkNHNpeGx6Zmhydjh1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QfXKe522OEagWgTVpf/giphy.gif" alt="Cyber Animation Showcase">
-  <p><i><b>Note:</b> The dynamic animation you see in a local preview needs to be captured as a GIF to display on GitHub. You can use screen recording software (like OBS or ScreenToGIF) to capture the animation running in your browser and save it as a GIF. Then, upload the GIF to your repository and replace the placeholder link above.</i></p>
+  <p><i><b>Note:</b>There is no spoon!</i></p>
 </div>
 
 ## 👾 About Me
-I am a **[Your Role]** with a passion for building awesome things. I have experience in a variety of technologies and I am always looking for new challenges.
+I am a **Lead Software Engineer** having skills across various tech domains, such as Full Stack Sofware Development, Systems Architecture, Devops, Data Engineering, and Gen AI Engineering, with a passion for building awesome things. I have experience in a variety of technologies and I am always looking for new challenges.
 
 ## 🛠️ Skills
-- **Languages:** [Language 1], [Language 2], [Language 3]
-- **Frameworks:** [Framework 1], [Framework 2], [Framework 3]
-- **Tools:** [Tool 1], [Tool 2], [Tool 3]
+- **Languages:** [Python], [Typescript], [GOLANG], [C#]
+- **Frameworks:** [Databricks] [Django], [FastAPI], [Kakfa], [Kubernetes], [Azure], [Apache Airflow]
+- **Tools:** [VS Code], [k9s], [Github]
 
-## 🚀 Projects
+## 🚀 Projects - TBC - this is a new placeholder account.
 - **Project 1:** [Link to Project 1] - A short description of your project.
 - **Project 2:** [Link to Project 2] - A short description of your project.
 - **Project 3:** [Link to Project 3] - A short description of your project.
